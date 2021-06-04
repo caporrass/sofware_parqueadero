@@ -283,150 +283,12 @@ Beneficios de parqueo con nosotros
           Portafolio
         </h2>
 
-        <p>SWAC,  es una empresa conformada por personal especializado en las distintas áreas de  la Ingeniería de Sistemas que en conjunto forma esos conocimientos científicos,  actividades y criterios para crear sistemas que satisfagan mejor las  necesidades de la sociedad lo que garantiza nuestra razón social. Con la  implementación de las ideas innovadoras de nuestros trabajadores y con la  implementación de los nuevos avances en las TIC pretendemos genera el mejor  beneficio para las empresas.</p>
+        <p>Park,  es una empresa conformada por personal especializado en las distintas áreas de  la Ingeniería de Sistemas que en conjunto forma esos conocimientos científicos,  actividades y criterios para crear sistemas que satisfagan mejor las  necesidades de la sociedad lo que garantiza nuestra razón social. Con la  implementación de las ideas innovadoras de nuestros trabajadores y con la  implementación de los nuevos avances en las TIC pretendemos genera el mejor  beneficio para las empresas.</p>
 </div>
 
-      <div class="portfolio-grid">
-        <div class="row">
-          <div class="col-lg-3 col-sm-6 col-xs-12">
-            <div class="card card-block">
-              <a href="#"><img src="img/mantenimiento-de-computadores_clip_image002.jpg" alt="20 px" height="200">
-              <div class="portfolio-over">
-                <div>
-                  <h3 class="card-title">
-                    Reparar tu Equipo
-                  </h3>
+     
 
-                  <p class="card-text">
-                    Sabemos que tu computadora es lo mas importante para tu diario vivir por ello te ofrecemos una reparacion idonea de la misma.
-                  </p>
-                </div>
-              </div></a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-sm-6 col-xs-12">
-            <div class="card card-block">
-              <a href="#"><img src="img/rj45a.gif" alt="20 px" height="200">
-              <div class="portfolio-over">
-                <div>
-                  <h3 class="card-title">
-                    La RED
-                  </h3>
-
-                  <p class="card-text">
-                    Sabemos que la conexion a internet te permite estar mas conectado en un mundo que exige gran demanda de las TIC por ello te ofrecemos una conexion segura y rapida.
-                  </p>
-                </div>
-              </div></a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-sm-6 col-xs-12">
-            <div class="card card-block">
-              <a href="#"><img src="img/Mantenimiento.jpg" alt="20 px" height="200">
-              <div class="portfolio-over">
-                <div>
-                  <h3 class="card-title">
-                    Realizamos Mantenimiento
-                  </h3>
-
-                  <p class="card-text">
-                    Sabemos que su computadora personal o laborar es lo mas importante por ello le ofrecemos mantenimiento expecializado.
-                  </p>
-                </div>
-              </div></a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-sm-6 col-xs-12">
-            <div class="card card-block">
-              <a href="#"><img src="img/tecnologia-y-nuevos-esquemas-de-negocio_151.jpg" alt="20 px" height="200">
-              <div class="portfolio-over">
-                <div>
-                  <h3 class="card-title">
-                    Usos de Herramientas
-                  </h3>
-
-                  <p class="card-text">
-                    Nuestro compromiso va mas alla que prestar un servico por ello tambien ofrecemos actualizacion de app.
-                  </p>
-                </div>
-              </div></a>
-            </div>
-          </div>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-3 col-sm-6 col-xs-12">
-            <div class="card card-block">
-              <a href="#"><img src="img/Mantenimiento-Correctivo.jpg" alt="20 px" height="200">
-              <div class="portfolio-over">
-                <div>
-                  <h3 class="card-title">
-                    Diagnostico
-                  </h3>
-
-                  <p class="card-text">
-                    Relizamos un diagnostico de tu computadora para ver que componentes y con que velocidad funciona lo cual permite saber que tan eficas son.
-                  </p>
-                </div>
-              </div></a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-sm-6 col-xs-12">
-            <div class="card card-block">
-              <a href="#"><img  src="img/450_1000.jpg" alt="20 px" height="200">
-              <div class="portfolio-over">
-                <div>
-                  <h3 class="card-title">
-                    Diseño de Paginas WEB
-                  </h3>
-
-                  <p class="card-text">
-                    Sabemos que para cada enpresa lo fundamental es poder vender sus productos de calidad y llegara a mas personas lo cual permitan mejorar cada vez mas.
-                  </p>
-                </div>
-              </div></a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-sm-6 col-xs-12">
-            <div class="card card-block">
-              <a href="#"><img src="img/7301495298_8f23577904_h-800x533.jpg" alt="20 px" height="200">
-              <div class="portfolio-over">
-                <div>
-                  <h3 class="card-title">
-                    Malware
-                  </h3>
-
-                  <p class="card-text">
-                    Sabemos que cuando los Malware asechan a tu computadora te pueden ocacionar un gran dolor de cabeza ya que puedes perder toda la informacion que mas te importa.
-                  </p>
-                </div>
-              </div></a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-sm-6 col-xs-12">
-            <div class="card card-block">
-              <a href="#"><img alt="" src="img/1-4.jpg" alt="20 px" height="200">
-              <div class="portfolio-over">
-                <div>
-                  <h3 class="card-title">
-                    Un Mundo Conectado
-                  </h3>
-
-                  <p class="card-text">
-                    En un mundo mas conectado tu eres el responsable del como lo usas.
-                  </p>
-                </div>
-              </div></a>
-            </div>
-          </div>
-        </div>
-      </div>
+         
     </section>
     <!-- /Portfolio -->
     <!-- Team -->
@@ -455,7 +317,7 @@ Beneficios de parqueo con nosotros
                 </nav>
 
                 <p>
-                 Ingeniero de Sistemas y Director de la empresa SWAC Solucionando tu Futuro.
+                 Ingeniero de Sistemas y Director de la empresa Park.
                 </p>
               </div>
             </div>
@@ -478,7 +340,7 @@ Beneficios de parqueo con nosotros
                 </nav>
 
                 <p>
-                  Directora de Talento Humano de la empresa SWAC Solucionando tu Futuro.
+                  Directora de Talento Humano de la empresa Park.
                 </p>
               </div></a>
             </div>
@@ -501,7 +363,7 @@ Beneficios de parqueo con nosotros
                 </nav>
 
                 <p>
-                  Director de Diseño Grafico de la empresa SWAC Solucionando tu Futuro.
+                  Director de Diseño Grafico de la empresa Park.
                 </p>
               </div></a>
             </div>
@@ -524,7 +386,7 @@ Beneficios de parqueo con nosotros
                 </nav>
 
                 <p>
-                  Directora de Desarrollo de la empresa SWAC Solucionando tu Futuro.
+                  Directora de Desarrollo de la empresa Park.
                 </p>
               </div></a>
             </div>
@@ -551,7 +413,7 @@ Beneficios de parqueo con nosotros
               
               <div>
                 <i class="fa fa-envelope"></i>
-                <p>solucionandotufuturo@swac.co</p>
+                <p>administradorpark@park.co</p>
               </div>
               
               <div>
@@ -567,19 +429,19 @@ Beneficios de parqueo con nosotros
               <div id="errormessage"></div>
               <form action="" method="post" role="form" class="contactForm">
                   <div class="form-group">
-                    <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                    <input type="text" name="name" class="form-control" id="name" placeholder="Nombre" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
                     <div class="validation"></div>
                   </div>
                   <div class="form-group">
-                    <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+                    <input type="email" class="form-control" name="email" id="email" placeholder="Email" data-rule="email" data-msg="Please enter a valid email" />
                     <div class="validation"></div>
                   </div>
                   <div class="form-group">
-                    <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                    <input type="text" class="form-control" name="subject" id="subject" placeholder="Asunto" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
                     <div class="validation"></div>
                   </div>
                   <div class="form-group">
-                    <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+                    <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Mensaje"></textarea>
                     <div class="validation"></div>
                   </div>
                   <div class="text-center">
@@ -599,7 +461,7 @@ Beneficios de parqueo con nosotros
 
             <div class="col-lg-6 col-xs-12 text-lg-left text-center">
               <p class="copyright-text">
-                © SWAC</p>
+                © CAMILO SANTIAGO PARK S.A</p>
               <div class="credits">
                   
                 <a href="#">Copyright © Todos los Derechos Reservados</a></div>

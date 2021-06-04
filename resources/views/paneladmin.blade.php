@@ -85,7 +85,7 @@
     <!-- Brand Logo -->
     <a href="index3.html" class="brand-link">
       <img src="dist/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
-      <span class="brand-text font-weight-light">Parqueaderos</span>
+      <span class="brand-text font-weight-light">Administrador</span>
     </a>
 
     <!-- Sidebar -->
@@ -122,7 +122,7 @@
             <a href="#" class="nav-link active">
               <i class="nav-icon fas fa-tachometer-alt"></i>
               <p>
-                Parqueadero
+                Panel Administrador
                 <i class="right fas fa-angle-left"></i>
               </p>
             </a>
@@ -135,14 +135,14 @@
               </li>
               <li class="nav-item">
                 <a href="./index2.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Dashboard v2</p>
+                <i class="fas fa-user-lock"></i>
+                  <p>PQRS</p>
                 </a>
               </li>
               <li class="nav-item">
                 <a href="./index3.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Dashboard v3</p>
+                <i class="fas fa-gift"></i>
+                  <p>Beneficios</p>
                 </a>
               </li>
             </ul>
@@ -152,7 +152,7 @@
               <i class="nav-icon fas fa-th"></i>
               <p>
                 Widgets
-                <span class="right badge badge-danger">New</span>
+                <span class="right badge badge-danger">Nuevo</span>
               </p>
             </a>
           </li>
@@ -192,7 +192,7 @@
               <div class="inner">
                 <h3>150</h3>
 
-                <p>New Orders</p>
+                <p>Nuevas reservas</p>
               </div>
               <div class="icon">
                 <i class="ion ion-bag"></i>
@@ -207,7 +207,7 @@
               <div class="inner">
                 <h3>53<sup style="font-size: 20px">%</sup></h3>
 
-                <p>Bounce Rate</p>
+                <p>Porcentaje de reservas</p>
               </div>
               <div class="icon">
                 <i class="ion ion-stats-bars"></i>
@@ -222,7 +222,7 @@
               <div class="inner">
                 <h3>44</h3>
 
-                <p>User Registrations</p>
+                <p>Usuarios registrados</p>
               </div>
               <div class="icon">
                 <i class="ion ion-person-add"></i>
@@ -237,7 +237,7 @@
               <div class="inner">
                 <h3>65</h3>
 
-                <p>Unique Visitors</p>
+                <p>Visitantes únicos</p>
               </div>
               <div class="icon">
                 <i class="ion ion-pie-graph"></i>
@@ -248,8 +248,10 @@
           <!-- ./col -->
         </div>
         <!-- /.row -->
-       
+
         
+
+       
         <div class="card">
                 
 
@@ -264,6 +266,8 @@
                   <button type="button" class="btn btn-success float-right" data-toggle="modal" data-target="#ventana_modal" >
                 <i class="far fa-plus-square"></i> Agregar
                 </button>
+
+                <a  href="{{ route('descargarPDF')}}"  class="btn btn-sm btn-primary">PDF </a>
 
                         <table id="example" class="table table-striped  table-bordered">
                             <thead style="background: black; color: white; text-align: center;">
@@ -292,11 +296,11 @@
                                  
 
                                 
-
+                                 
 
                                     <input type="button"  type="button" class="btn btn-warning" style="cursor:pointer; margin-right:10px;" value="Actualizar" onclick="actualizar(<?php echo $parqueadero->id;  ?>  , ' <?php echo $parqueadero->nombreParqueadero;  ?> '  , ' <?php echo $parqueadero->numeroPuesto;  ?> '  , ' <?php echo $parqueadero->ubicacion;  ?> ' , ' <?php echo $parqueadero->disponibilidad;  ?> ' , ' <?php echo $parqueadero->valor;  ?> ' )">
                                     
-                                   <input type="button" type="button" class="btn btn-danger" style="cursor:pointer; margin-right:10px;" value="Eliminar" onclick="eliminar(<?php echo $parqueadero->id;  ?>)">   
+                                   <input type="button" type="button"  class="btn btn-danger" style="cursor:pointer; margin-right:10px;"  value="Eliminar" onclick="eliminar(<?php echo $parqueadero->id;  ?>)">   
                              </tr>
                                     @endforeach
                                 @endif 
@@ -365,7 +369,9 @@
 <!-- AdminLTE for demo purposes -->
 <script src="dist/js/demo.js"></script>
 <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
-<script src="dist/js/pages/dashboard.js"></script>
+
+
+
 </body>
 </html>
 <div class="modal fade" id="ventana_modal" >
@@ -508,7 +514,7 @@
             <div class="modal-dialog"  >
                 <div class="modal-content" >
                  <div class="modal-header">
-                    <h4 class="modal-title" style="padding-left: 20%; font-family: cursive;" >¿Desea Eliminar el Parqueadero?</h4> 
+                    <h4 class="modal-title" style="padding-left: 20%; font-family: arial;" >¿Desea Eliminar el Parqueadero?</h4> 
                    <button type="button" class="close" data-dismiss="modal">
                        <span>&times;</span>
                    </button>

@@ -25,3 +25,4 @@ Route::get('/paneladmin', 'ParqueaderoController@admin')->name('paneladmin');
 Route::post('/agregar', 'ParqueaderoController@store')->name('agregar');
 Route::post('/actualizar', 'ParqueaderoController@update')->name('actualizar');
 Route::post('/eliminar', 'ParqueaderoController@destroy')->name('eliminar');
+Route::get('/pdf', 'PDFController@PDFPark')->name('descargarPDF');
